@@ -1,4 +1,4 @@
-javascript: d = new Array();
+d = new Array();
 
 function S() {
     with(open().document) {
